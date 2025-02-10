@@ -10,15 +10,12 @@ public class Curriculum {
     public String getTitle() {
         return title;
     }
-
     public String getVersion() {
         return version;
     }
-
     public void setTitle(String title) {
         this.title = title;
     }
-
     public void setVersion(String version) {
         this.version = version;
     }
